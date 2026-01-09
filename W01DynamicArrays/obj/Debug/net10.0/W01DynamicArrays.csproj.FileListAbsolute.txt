@@ -1,0 +1,15 @@
+C:\Users\USER\CSE212\W01DynamicArrays\bin\Debug\net10.0\W01DynamicArrays.exe
+C:\Users\USER\CSE212\W01DynamicArrays\bin\Debug\net10.0\W01DynamicArrays.deps.json
+C:\Users\USER\CSE212\W01DynamicArrays\bin\Debug\net10.0\W01DynamicArrays.runtimeconfig.json
+C:\Users\USER\CSE212\W01DynamicArrays\bin\Debug\net10.0\W01DynamicArrays.dll
+C:\Users\USER\CSE212\W01DynamicArrays\bin\Debug\net10.0\W01DynamicArrays.pdb
+C:\Users\USER\CSE212\W01DynamicArrays\obj\Debug\net10.0\W01DynamicArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\CSE212\W01DynamicArrays\obj\Debug\net10.0\W01DynamicArrays.AssemblyInfoInputs.cache
+C:\Users\USER\CSE212\W01DynamicArrays\obj\Debug\net10.0\W01DynamicArrays.AssemblyInfo.cs
+C:\Users\USER\CSE212\W01DynamicArrays\obj\Debug\net10.0\W01DynamicArrays.csproj.CoreCompileInputs.cache
+C:\Users\USER\CSE212\W01DynamicArrays\obj\Debug\net10.0\W01DynamicArrays.sourcelink.json
+C:\Users\USER\CSE212\W01DynamicArrays\obj\Debug\net10.0\W01DynamicArrays.dll
+C:\Users\USER\CSE212\W01DynamicArrays\obj\Debug\net10.0\refint\W01DynamicArrays.dll
+C:\Users\USER\CSE212\W01DynamicArrays\obj\Debug\net10.0\W01DynamicArrays.pdb
+C:\Users\USER\CSE212\W01DynamicArrays\obj\Debug\net10.0\W01DynamicArrays.genruntimeconfig.cache
+C:\Users\USER\CSE212\W01DynamicArrays\obj\Debug\net10.0\ref\W01DynamicArrays.dll
